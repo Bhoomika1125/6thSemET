@@ -1,0 +1,47 @@
+.mn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .obx {
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px;
+  }
+  
+  .heading {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .inpbox {
+    width: 200px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    background-color:#dae71f;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: #dae71f;
+  }
+  
+  .noacc {
+    margin-top: 20px;
+    font-size: 14px;
+  }
+  
+  .link {
+    text-decoration: none;
+    color: #dae71f;
+  }
+  
